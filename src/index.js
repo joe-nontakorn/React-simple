@@ -6,4 +6,8 @@ import CustomRouter from './router/router';
 const rootElement = document.getElementById('root');
 
 // Use createRoot to render your application
-createRoot(rootElement).render(<CustomRouter />);
+createRoot(rootElement).render(
+    <React.StrictMode>
+      <CustomRouter />
+    </React.StrictMode>
+  );
