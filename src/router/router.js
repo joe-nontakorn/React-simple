@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import App from '../pages/App'; 
+import Home from '../pages/Home'; 
 import Test from '../pages/Test';
 
 const CustomRouter = () => {
   return (
     <Router>
-        <Route path="/app" component={App} />
+        <Route path="/home" component={Home} />
         <Route path="/test" component={Test} /> 
     </Router>
   );
