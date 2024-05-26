@@ -14,6 +14,8 @@ const Home = () => {
       <h1>Home pages</h1>
       <h1>Home pages</h1>
       <h1>Home pages</h1>
+      <h1>test</h1>
+
 
     </div>
   );
