@@ -5,6 +5,16 @@ const Home = () => {
   return (
     <div>
       <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+      <h1>Home pages</h1>
+
     </div>
   );
 };
